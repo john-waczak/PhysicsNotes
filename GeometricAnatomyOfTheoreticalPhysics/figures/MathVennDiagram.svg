@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="185mm"
+   viewBox="0 0 210 185"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="MathVennDiagram.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     height="150mm"
+     inkscape:zoom="0.75187991"
+     inkscape:cx="142.30996"
+     inkscape:cy="365.7499"
+     inkscape:window-width="1864"
+     inkscape:window-height="1043"
+     inkscape:window-x="56"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#1b325f;stroke-width:1.11837;stroke-linecap:round;stroke-linejoin:round"
+       id="circle1433"
+       cx="73.743347"
+       cy="61.686012"
+       r="53.504604" />
+    <circle
+       style="fill:none;stroke:#008000;stroke-width:1.14714;stroke-linecap:round;stroke-linejoin:round"
+       id="circle1433-3"
+       cx="137.99156"
+       cy="59.995251"
+       r="54.880821" />
+    <circle
+       style="fill:none;stroke:#800000;stroke-width:1.15429;stroke-linecap:round;stroke-linejoin:round"
+       id="circle1433-3-5"
+       cx="106.03108"
+       cy="116.668"
+       r="55.222866" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.7844px;line-height:1.25;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;letter-spacing:0px;word-spacing:0px;stroke-width:0.577732"
+       x="34.200199"
+       y="59.751759"
+       id="text2798"><tspan
+         sodipodi:role="line"
+         id="tspan2796"
+         style="stroke-width:0.577732"
+         x="34.200199"
+         y="59.751759">Analysis</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.7844px;line-height:1.25;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;letter-spacing:0px;word-spacing:0px;stroke-width:0.577732"
+       x="137.14751"
+       y="59.336231"
+       id="text3696"><tspan
+         sodipodi:role="line"
+         id="tspan3694"
+         style="stroke-width:0.577732"
+         x="137.14751"
+         y="59.336231">Algebra</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.7844px;line-height:1.25;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;letter-spacing:0px;word-spacing:0px;stroke-width:0.577732"
+       x="83.214539"
+       y="135.68056"
+       id="text3700"><tspan
+         sodipodi:role="line"
+         id="tspan3698"
+         style="stroke-width:0.577732"
+         x="83.214539"
+         y="135.68056">Geometry</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:1.25;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="93.712219"
+       y="49.719189"
+       id="text7316"><tspan
+         sodipodi:role="line"
+         id="tspan7314"
+         style="stroke-width:0.264583"
+         x="93.712219"
+         y="49.719189">Quantum</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="93.712219"
+         y="55.892815"
+         id="tspan7318">Mechanics</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:1.25;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="56.981144"
+       y="96.072342"
+       id="text9734"><tspan
+         sodipodi:role="line"
+         id="tspan9732"
+         style="stroke-width:0.264583"
+         x="56.981144"
+         y="96.072342">Classical Mech.</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="56.981144"
+         y="102.28093"
+         id="tspan9736">Electrodynamics</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="56.981144"
+         y="108.45456"
+         id="tspan9738">General Rel.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:1.25;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="114.98655"
+       y="100.27785"
+       id="text11368"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="114.98655"
+         y="100.27785"
+         id="tspan11370">Statistical Physics</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:1.25;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="91.396133"
+       y="71.006996"
+       id="text16360"><tspan
+         sodipodi:role="line"
+         id="tspan16358"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;stroke-width:0.264583"
+         x="91.396133"
+         y="71.006996">Differential </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;stroke-width:0.264583"
+         x="91.396133"
+         y="77.180618"
+         id="tspan16362">Geometry</tspan></text>
+  </g>
+</svg>
